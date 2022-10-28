@@ -1,6 +1,6 @@
 ![gene_20221028_024006](https://user-images.githubusercontent.com/51095043/198513574-9844b574-3d51-454f-941b-63f5ac68b523.png)
 
-<H1 style="color:red;">Hello Guys!!!<H1>
+<H1 style="background-color:red;">Hello Guys!!!<H1>
 <div> 
   
  <a> 
