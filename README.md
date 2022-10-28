@@ -1,8 +1,8 @@
-<link href="index.css" rel="stylesheet">
+
 
 ![gene_20221028_024006](https://user-images.githubusercontent.com/51095043/198513574-9844b574-3d51-454f-941b-63f5ac68b523.png)
-<link href="Css.css" rel="stylesheet">
-<h2 style="background-color:red;">Hello Guys!!!</h2>
+
+<h2>Hello Guys!!!</h2>
 <div> 
   
  <a> 
@@ -12,4 +12,5 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-[!(https://activity-graph.herokuapp.com/graph?username=Staici&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)]
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Staici&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
