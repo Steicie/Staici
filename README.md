@@ -1,4 +1,4 @@
-
+Se
 
 ![gene_20221028_024006](https://user-images.githubusercontent.com/51095043/198513574-9844b574-3d51-454f-941b-63f5ac68b523.png)
 
@@ -14,6 +14,6 @@
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Staici&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <p aling="center"> <h1>Contador de Visita</h1><img alingn="center" src="https://profile-counter.glitch.me/Staici/count.svg"/></p>
+  <p aling="center"> <h3>Contador de Visita</h3><img alingn="center" src="https://profile-counter.glitch.me/Staici/count.svg"/></p>
 
   
