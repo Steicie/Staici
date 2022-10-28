@@ -1,4 +1,18 @@
-
+return DefaultTextStyle(
+  style: const TextStyle(
+    fontSize: 20.0,
+  ),
+  child: AnimatedTextKit(
+    animatedTexts: [
+      WavyAnimatedText('Hello World'),
+      WavyAnimatedText('Look at the waves'),
+    ],
+    isRepeatingAnimation: true,
+    onTap: () {
+      print("Tap Event");
+    },
+  ),
+);
 
 ![gene_20221028_024006](https://user-images.githubusercontent.com/51095043/198513574-9844b574-3d51-454f-941b-63f5ac68b523.png)
 
