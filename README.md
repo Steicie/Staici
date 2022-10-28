@@ -1,10 +1,7 @@
-h1{
-background-color:red;
-}
 
 ![gene_20221028_024006](https://user-images.githubusercontent.com/51095043/198513574-9844b574-3d51-454f-941b-63f5ac68b523.png)
 <link href="Css.css" rel="stylesheet">
-<h2>Hello Guys!!!</h2>
+<h2 style="background-color:red;">Hello Guys!!!</h2>
 <div> 
   
  <a> 
