@@ -22,6 +22,7 @@
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Staici&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <p aling="center">   <img src="https://readme-typing-svg.demolab.com/?lines=Contador de Visitante&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000"><img alingn="center" src="https://profile-counter.glitch.me/Staici/count.svg"/></p>
+  <p aling="center">   <img src="https://readme-typing-svg.demolab.com/?lines=Contador de Visitante&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img alingn="center" src="https://profile-counter.glitch.me/Staici/count.svg"/></p>
 
   
