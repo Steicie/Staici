@@ -4,8 +4,8 @@
 
 
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://git.io/typing-svg">
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://git.io/typing-svg" >
     <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=500&lines=HELLO,+MY+NAME+is+Steicie+:%29" alt="Typing SVG" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Staici&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages-graph" />
