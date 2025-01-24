@@ -9,6 +9,5 @@
 <p>**Sou formada pela escola de ensino profissionalizante Professora Luiza de Teodoro Vieira da turma de informática, atualmente estou estudando no Instituto Federal de Ciências e Tecnologia de Maracanaú no curso Ciência da Computação**
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Staici&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
